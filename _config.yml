@@ -6,3 +6,13 @@ url: https://just-the-docs.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+collections:
+  collection_test:
+    permalink: "/:collection/:path/"
+    output: true
+
+just_the_docs:
+  collections:
+    collection_test:
+      name: Collection Test
