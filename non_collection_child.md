@@ -1,6 +1,5 @@
 ---
 title: Non Collection Child
-layout: default
 parent: Non Collection Parent
 ---
 
